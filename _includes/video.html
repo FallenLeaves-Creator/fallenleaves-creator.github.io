@@ -1,0 +1,8 @@
+{% assign src = include.src %}
+{% assign src = '/assets/js/viewer-js/' | append: src %}
+<div class="video-container">
+  <video controls width="100%">
+      <source src="{{ src }}" type="video/mp4">
+      Your browser does not support the video tag.
+  </video>
+</div>
