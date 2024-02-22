@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-02-22T14:46:49+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Zhang Xiao CV</title><subtitle>Zhang Xiao    Phone Number: (+86) 189 7101 4178 Wuhan University</subtitle><entry><title type="html">A method to update datas for Daisy-Chaining electronic devices</title><link href="http://localhost:4000/jekyll/update/2022/04/15/A-method-to-update-datas-for-Daisy-Chaining-electronic-devices.html" rel="alternate" type="text/html" title="A method to update datas for Daisy-Chaining electronic devices" /><published>2022-04-15T17:29:24+08:00</published><updated>2022-04-15T17:29:24+08:00</updated><id>http://localhost:4000/jekyll/update/2022/04/15/A-method-to-update-datas-for-Daisy-Chaining-electronic-devices</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/15/A-method-to-update-datas-for-Daisy-Chaining-electronic-devices.html"><![CDATA[<div style="
+position: relative;
+padding-bottom:56.25%;
+padding-top:30px;
+height:0;
+overflow:hidden;
+">
+
+  <iframe src="/assets/js/viewer-js/./dataupdate.pdf" allowfullscreen="" webkitallowfullscreen="" frameborder="0" style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    ">
+</iframe>
+ 
+</div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">A deep learning based system update method for network devices</title><link href="http://localhost:4000/jekyll/update/2022/04/15/A-nerual-network-based-method-for-system-update.html" rel="alternate" type="text/html" title="A deep learning based system update method for network devices" /><published>2022-04-15T17:29:24+08:00</published><updated>2022-04-15T17:29:24+08:00</updated><id>http://localhost:4000/jekyll/update/2022/04/15/A-nerual-network-based-method-for-system-update</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/04/15/A-nerual-network-based-method-for-system-update.html"><![CDATA[<div style="
+position: relative;
+padding-bottom:56.25%;
+padding-top:30px;
+height:0;
+overflow:hidden;
+">
+
+  <iframe src="/assets/js/viewer-js/./systemupdate.pdf" allowfullscreen="" webkitallowfullscreen="" frameborder="0" style="
+      position: absolute;
+      top:0;
+      left:0;
+      width:100%;
+      height:100%;
+    ">
+</iframe>
+ 
+</div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Comive–a living comic</title><link href="http://localhost:4000/jekyll/update/2020/11/13/comive.html" rel="alternate" type="text/html" title="Comive–a living comic" /><published>2020-11-13T17:29:24+08:00</published><updated>2020-11-13T17:29:24+08:00</updated><id>http://localhost:4000/jekyll/update/2020/11/13/comive</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/11/13/comive.html"><![CDATA[<div class="video-container">
+  <video controls="" width="100%">
+      <source src="/assets/js/viewer-js/./comive.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+  </video>
+</div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Your browser does not support the video tag.]]></summary></entry></feed>
