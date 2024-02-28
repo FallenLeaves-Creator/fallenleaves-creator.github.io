@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comive--a living comic"
+title:  "Comive--comic gonna to be live"
 date:   2020-11-13 17:29:24 +0800
 categories: jekyll update
 ---

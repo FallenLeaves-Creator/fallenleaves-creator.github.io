@@ -4,3 +4,4 @@
 title: Zhang Xiao Curriculum Vitae
 layout: home
 ---
+{% include image.html src="/path/to/your/image.jpg" alt="Description of the image" width="300" height="200" %}
