@@ -15,9 +15,9 @@ Invention patents to be published:
 
 即将发表发明专利：
 
-1.
+1.一种基于视觉测量的搬运机器人精准定位系统
 
-2.
+2.一种基于数据价值驱动的设备资产价值评估方法及系统
 
 Invention patents pending authorization:
 
@@ -37,18 +37,18 @@ Authorized invention patents:
 
 1.基于神经网络的心电及心震信号联合分类的方法及装置
 
-{% include iframe.html src="./基于神经网络的心电及心震信号联合分类的方法及装置.pdf" %}
+{% include iframe.html src="./ECG_SCG.pdf" %}
 
 已授权实用新型专利：
 
 1.一种置于坐垫中的心震监测分析设备
 
-{% include iframe.html src="./一种置于坐垫中的心震监测分析设备.pdf" %}
+{% include iframe.html src="./cushion.pdf" %}
 
 2.一种基于心电与心震信号的心脏监测内衣
 
-{% include iframe.html src="./一种基于心电与心震信号的心脏监测内衣.pdf" %}
+{% include iframe.html src="./underwear.pdf" %}
 
 3.一种基于Arduino的睡眠心脏监测床垫
 
-{% include iframe.html src="./一种基于Arduino的睡眠心脏监测床垫.pdf" %}
+{% include iframe.html src="./Arduino.pdf" %}
